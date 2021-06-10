@@ -1,2 +1,2 @@
-# TransformacionesYTrancisionesCSS
+# TransformacionesYTransicionesCSS
 SubModulo Proyectos
